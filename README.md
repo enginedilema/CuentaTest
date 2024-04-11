@@ -1,3 +1,5 @@
+[![LaravelTest](https://github.com/enginedilema/CuentaTest/actions/workflows/laravel.yml/badge.svg)](https://github.com/enginedilema/CuentaTest/actions/workflows/laravel.yml)
+
 Crea un repositori a GitHub amb el projecte de TDD de Cuenta que hem realitzat anteriorment.
 
 - **Crea un Repositori a GitHub**: Inicialitzeu un nou repositori a GitHub per al projecte de la Cuenta que vam desenvolupar anteriorment utilitzant TDD. Assegureu-vos que el repositori sigui públic per a que tots puguem veure i compartir els nostres progressos.
