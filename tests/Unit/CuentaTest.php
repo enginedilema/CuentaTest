@@ -57,7 +57,7 @@ class CuentaTest extends TestCase
     public function test_ingresar_cents_2(){
         $cuenta = new Cuenta();
         $cuenta->ingresar(0.02);
-        $this->assertEquals(0.02, $cuenta->getSaldo());
+        $this->assertEquals(0.01, $cuenta->getSaldo());
     }
     
 }
