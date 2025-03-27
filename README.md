@@ -18,4 +18,4 @@ Crea un repositori a GitHub amb el projecte de TDD de Cuenta que hem realitzat a
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT). 
